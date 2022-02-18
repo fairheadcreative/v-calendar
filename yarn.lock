@@ -548,10 +548,10 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@popperjs/core@2.4.0":
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.4.0.tgz#0e1bdf8d021e7ea58affade33d9d607e11365915"
-  integrity sha512-NMrDy6EWh9TPdSRiHmHH2ye1v5U0gBD7pRYwSwJvomx7Bm4GG04vu63dYiVzebLOx2obPpJugew06xVP0Nk7hA==
+"@popperjs/core@2.7.2":
+  version "2.7.2"
+  resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.7.2.tgz#00644825ce478065101954bdb2f7f2d062365b7f"
+  integrity sha512-3LC1/M2ZFcmDrSkD1byT/hZzoPehZkDucbDShLnZ+/Gwkr6CAxiQ2kWy1UtJeLGADe58hTWkx22YEHqjPGUKzw==
 
 "@sinonjs/commons@^1.7.0":
   version "1.8.3"
